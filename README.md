@@ -10,6 +10,7 @@ Womanium Quantum Hackathon 2022
 | Lambert Kong |  | #5925 |  |
 | Lajoyce Mboning |  | #1601 |  |
 | Amanda Younes | amandajyounes@ucla.edu | #9428 | amandajyounes |
+
 Pitch Presenter: 
 
 ## Solution
