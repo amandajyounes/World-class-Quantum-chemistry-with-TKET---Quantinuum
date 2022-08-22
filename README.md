@@ -6,7 +6,7 @@ Womanium Quantum Hackathon 2022
 | ----------- | ----------- | ----------- | ----------- |
 | Will Wang | qinghe1230@gmail.com | #4440 | Qinghe-Wang |
 | Changling Zhao | changling@physics.ucla.edu | #4426 |  |
-| Ashley Shin |  | #0089 |  |
+| Ashley Shin | ajshin@ucla.edu | #0089 | shinj |
 | Lambert Kong | lambertkk@ucla.edu | #5925 | lambertkk |
 | Lajoyce Mboning |  | #1601 | lajoycemboning |
 | Amanda Younes | amandajyounes@ucla.edu | #9428 | amandajyounes |
