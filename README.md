@@ -15,11 +15,16 @@ Pitch Presenter:
 
 ## Solution
 ### Overview
-1. Hamiltonian
-2. Ansatz Circuit
-3. Optimizing Backends
-4. Running VQE
+1. Preparation
+2. Hamiltonian
+3. Ansatz Circuit
+4. Optimizing Backends
+5. Running VQE
+6. Results
+
+### Preparation
 ### Hamiltonian
 ### Ansatz Circuit
 ### Optimizing Backends
 ### Running VQE
+### Results
